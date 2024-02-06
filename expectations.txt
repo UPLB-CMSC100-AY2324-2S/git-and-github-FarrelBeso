@@ -1,0 +1,4 @@
+Expectations:
+Review fundamental aspects of web development.
+Know the inner workings of how the Internet works.
+Hope I could submit more meaningful and quality outputs.
